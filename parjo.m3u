@@ -1,7 +1,7 @@
 #EXTM3U url=""
 
 
-//Suparjo TV   playlist >>> NATIONAL
+//Suparjo TV - NATIONAL
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -281,7 +281,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 
 
-//Suparjo TV   playlist >>> MOVIES
+//Suparjo TV - MOVIES
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -564,7 +564,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 
 
 
-//Suparjo TV   playlist >>> ENTERTAINMENT
+//Suparjo TV - ENTERTAINMENT
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -706,7 +706,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime
 
 
 
-//Suparjo TV   playlist >>> NEWS
+//Suparjo TV - NEWS
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -867,7 +867,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 
 
-//Suparjo TV   playlist >>> SPORTS
+//Suparjo TV - SPORTS
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1000,7 +1000,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 
 
 
-//Suparjo TV   playlist >>> KNOWLEDGE
+//Suparjo TV - KNOWLEDGE
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1083,7 +1083,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorc
 
 
 
-//Suparjo TV   playlist >>> LIFESTYLE
+//Suparjo TV - LIFESTYLE
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1112,7 +1112,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 
 
 
-//Suparjo TV   playlist >>> MUSIC
+//Suparjo TV - MUSIC
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1153,7 +1153,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 
 
 
-//Suparjo TV   playlist >>> INTERNATIONAL
+//Suparjo TV - INTERNATIONAL
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1218,7 +1218,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 
 
-//Suparjo TV   playlist >>> KIDS
+//Suparjo TV - KIDS
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1347,7 +1347,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
 
 
-//Suparjo TV   playlist >>> RELIGION
+//Suparjo TV - RELIGION
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
